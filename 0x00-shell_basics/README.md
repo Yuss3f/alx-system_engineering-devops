@@ -5,3 +5,4 @@
 4-listmorefiles is a script that display current directory contents, including hidden files
 5-listfilesdigitonly is a script that display current directory contents
 6-firstdirectory is a script that creates a directory named my_first_directory in the tmp directory
+7-movethatfile is a script that moves the file betty from the "tmp" directory to its subdirectory
