@@ -4,3 +4,6 @@ this is my readme file
 2-path is a script to add "/action" to the "PATH"
 3-paths is a script that counts the number of directories in the PATH
 4-global_variables is a script that lists environment variables.
+5-local_variables is  a script that lists all local variables and environment variables, and functions.
+6-create_local_variable is a a script that creates a new local variable.
+7-create_global_variable is a script that creates new global variable
