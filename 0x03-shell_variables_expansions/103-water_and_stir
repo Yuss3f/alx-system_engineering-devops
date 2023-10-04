@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((5#$(echo $WATER | tr ewatratewa 01234) + 5#$(echo $STIR | tr ti.itirtrtr 01234))) | tr 0123456789 shtbeolhc
+echo $((5#$(echo $WATER | tr eawtr 01234) + 5#$(echo $STIR | tr tisr. 01234))) | tr 0123456789 shtbeolhc
